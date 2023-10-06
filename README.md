@@ -15,8 +15,8 @@ INN Hotels Group has a chain of hotels in Portugal, they are facing problems wit
 
 ## Data Description
 
-# Booking_ID: unique identifier of each booking
-# no_of_adults: Number of adults
+Booking_ID: unique identifier of each booking
+no_of_adults: Number of adults
 no_of_children: Number of Children
 no_of_weekend_nights: Number of weekend nights (Saturday or Sunday) the guest stayed or booked to stay at hotel
 no_of_week_nights: Number of week nights (Monday to Friday) the guest stayed or booked to stay at hotel
