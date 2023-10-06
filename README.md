@@ -1,4 +1,4 @@
-# INNHOTEL-supervisedlearningclassifications-
+# INNHOTELS-supervisedlearningclassifications-
 
 ## context
 A significant number of hotel bookings are called-off due to cancellations or no-shows for various reasons.Such revenue-diminishing losses are particularly high on last-minute cancellations.
